@@ -1,0 +1,25 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/menu_item_share"
+        app:showAsAction="ifRoom"
+        android:title="Share"
+        android:icon="@android:drawable/ic_menu_share"
+        />
+
+    <item
+        android:id="@+id/menu_item_favourite"
+        app:showAsAction="ifRoom"
+        android:title="Favourite"
+        android:icon="@drawable/likebutton"
+        />
+
+     <item
+         android:id="@+id/menu_item_setting"
+         android:title="Settings"
+         app:showAsAction="never"
+         />
+
+
+</menu>

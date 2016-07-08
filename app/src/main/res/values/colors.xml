@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#e52d27</color>
+    <color name="colorPrimaryDark">#e52d27</color>
+    <color name="colorAccent">#FFFFFF</color>
+    <color name="forDotsUnSelected">#FFFFFF</color>
+    <color name="forDotSelected">#e53d27</color>
+
+
+</resources>
